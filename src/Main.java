@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-    public static void main(String[] args) {
+    private static void main(String[] args) {
         String nombre;
         //Prepara el programa para leer datos desde el teclado
         Scanner leer = new Scanner(System.in);
